@@ -43,6 +43,9 @@ namespace testeListas
                 if (emp != null)
                 {
                     emp.Increase(plusId);
+                } else
+                {
+                    Console.WriteLine("\n\tTHIS ID DOES NOT EXISTS\n");
                 }
                 foreach (Employee obj in list)
                 {

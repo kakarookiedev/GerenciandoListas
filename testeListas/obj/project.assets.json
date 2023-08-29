@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kauan\\Desktop\\CURSO_C#\\testeListas\\testeListas\\GerenciandoListas.csproj",
+      "projectUniqueName": "C:\\Users\\Kauan\\Desktop\\CURSO_C#\\GerenciandoListas\\testeListas\\GerenciandoListas.csproj",
       "projectName": "GerenciandoListas",
-      "projectPath": "C:\\Users\\Kauan\\Desktop\\CURSO_C#\\testeListas\\testeListas\\GerenciandoListas.csproj",
+      "projectPath": "C:\\Users\\Kauan\\Desktop\\CURSO_C#\\GerenciandoListas\\testeListas\\GerenciandoListas.csproj",
       "packagesPath": "C:\\Users\\Kauan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kauan\\Desktop\\CURSO_C#\\testeListas\\testeListas\\obj\\",
+      "outputPath": "C:\\Users\\Kauan\\Desktop\\CURSO_C#\\GerenciandoListas\\testeListas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
