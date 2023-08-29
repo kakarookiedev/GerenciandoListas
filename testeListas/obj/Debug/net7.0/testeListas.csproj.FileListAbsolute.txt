@@ -1,0 +1,15 @@
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\bin\Debug\net7.0\testeListas.exe
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\bin\Debug\net7.0\testeListas.deps.json
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\bin\Debug\net7.0\testeListas.runtimeconfig.json
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\bin\Debug\net7.0\testeListas.dll
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\bin\Debug\net7.0\testeListas.pdb
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.csproj.AssemblyReference.cache
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.AssemblyInfoInputs.cache
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.AssemblyInfo.cs
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.csproj.CoreCompileInputs.cache
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.dll
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\refint\testeListas.dll
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.pdb
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\testeListas.genruntimeconfig.cache
+C:\Users\Kauan\Desktop\CURSO_C#\testeListas\testeListas\obj\Debug\net7.0\ref\testeListas.dll
